@@ -1,4 +1,4 @@
-# Windows-Spotlight-Wallpapers
+# Windows-10 & Windows-11 Spotlight-Wallpapers
 A batch file created through notepad which saves the windows spolight wallpapers.
 
 1. save this file on the desktop.
