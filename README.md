@@ -5,4 +5,4 @@ A batch file created through notepad which saves the windows spolight wallpapers
 2. Run/Double click for execution of batch file.
 3. A folder named "Wallpaper" is created on the desktop, where you can find the spotlight images.
 
-feel free to suggest.! Peace!
+Feel free to suggest.! Peace!
